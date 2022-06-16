@@ -3,6 +3,8 @@ I'm Drew Funderburk, a Unity and Unreal programmer! I'm currently working on a s
 
 I am looking for work! If you have any availabilities and think I would fit your team well, please email me at drewfunderburkbusiness@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/drew-funderburk/)
 
+You can find my resume [here](DrewFunderburk_Resume.pdf)
+
 ## Projects
 ### Stratus
 Stratus is a 6 month project created in Unreal Engine 4 intended to show proficiency with Unreal Engine and expand the scope of
@@ -27,5 +29,3 @@ You can find the system [here](https://github.com/drewfunderburk/ComplexGameSyst
 ### Alex and Alex
 One of the first game jam games I completed with a team in 2018. Alex and Alex was created in one week in Unity. <br/><br/>
 You can find the game [here](https://trollface666.itch.io/alex-and-alex)
-
-[Resume](DrewFunderburk_Resume.pdf)
