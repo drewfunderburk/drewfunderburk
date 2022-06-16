@@ -12,6 +12,7 @@ Stratus is a 6 month project created in Unreal Engine 4 intended to show profici
 the team's planning and project organization understanding. Not including planning, this project has seen 3 months of actual
 development time thus far. <br/><br/>
 The team consisted of two programmers and three artists, with myself as lead programmer and project lead.
+
 - [Itch](https://stratusgame.itch.io/stratus)
 - [Repository](https://github.com/drewfunderburk/StratusSource) (Upload from Perforce)
 
@@ -22,15 +23,18 @@ complete development cycle starting with project planning and ending with releas
 completed in one month. 
 
 The team consisted of myself as programmer and project lead, and another artist working together.
+
 - [Repository](https://github.com/drewfunderburk/Proximo-One)
 
 ## Modular Combat Platform
 The Modular Combat Platform is an all-in-one solution for creating modular combat oriented objects in Unreal Engine that need to
 literally be the sum of their parts. Developers are equipped to specify the stats of their creation with modular pieces, whether it
 be a spaceship or a castle. It is highly extensible for custom implementations.
+
 - [Repository](https://github.com/drewfunderburk/ComplexGameSystems)
 
 ## Alex and Alex
 <img src="/Images/Alex-and-Alex.png" alt="Alex and Alex" width="500"/>
 One of the first game jam games I completed with a team in 2018. Alex and Alex was created in one week in Unity.
+
 - [Itch](https://trollface666.itch.io/alex-and-alex)
