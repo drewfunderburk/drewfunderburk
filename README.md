@@ -8,19 +8,14 @@ I am looking for work! If you have any availabilities and think I would fit your
 # Projects
 ## Stratus
 <img src="/Images/Stratus.png" alt="Stratus" width="500"/>
-Stratus is a 6 month project created in Unreal Engine 4 intended to show proficiency with Unreal Engine and expand the scope of
-the team's planning and project organization understanding. Not including planning, this project has seen 3 months of actual
-development time thus far. <br/><br/>
-The team consisted of two programmers and three artists, with myself as lead programmer and project lead.
+Stratus is an airship naval combat game created in Unreal Engine 4. Stratus was a 6-month student project with a full development cycle from planning to post-production. The team consisted of two programmers and three artists. As lead programmer and project lead, my responsibilities included gameplay, UI, and AI programming as well as system design.
 
 - [Itch](https://stratusgame.itch.io/stratus)
 - [Repository](https://github.com/drewfunderburk/StratusSource) (Upload from Perforce)
 
 ## Proximo One
 <img src="/Images/ProximoOne.png" alt="Proximo One" width="500"/>
-Proximo One is a 9 week Unity project intended to demonstrate competence in Unity as well as familiarize the team with a
-complete development cycle starting with project planning and ending with release. Not including planning, this project was
-completed in one month. 
+Proximo One is a top down arcade style scifi shooter created in Unity. Proximo One was a 9-week student project with a full development cycle from planning to post-production. The team consisted of one programmer and three artists. As sole programmer and project lead, I was responsible for all programming, UI, AI, and system design.
 
 The team consisted of myself as programmer and project lead, and another artist working together.
 
