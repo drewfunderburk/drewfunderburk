@@ -6,7 +6,7 @@ I am looking for work! If you have any availabilities and think I would fit your
 [Resume](DrewFunderburk_Resume.pdf)
 
 # Projects
-## Flock of the Low God VR
+## Flock of the Low God VR (NDA)
 <img src="/Images/FlockOfTheLowGodHeader.jpg" alt="Flock of the Low God" width="500"/>
 Based on the new feature film, MALUM, Flock of the Low God VR immerses gamers in the horrifying world of the "The Flock", and pits them against an onslaught of cult members and creatures as they attempt to breach the confines of Lanford Police Department. Put on the badge, grab a weapon, and fight off The Flock and the entities they've conjured before it's too late. Play alone, or gather your friends, and prepare for a combat-based VR survival horror experience like no other.
 
