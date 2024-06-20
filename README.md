@@ -10,6 +10,8 @@ I am looking for work! If you have any availabilities and think I would fit your
 <img src="/Images/FlockOfTheLowGodHeader.jpg" alt="Flock of the Low God" width="500"/>
 Based on the new feature film, MALUM, Flock of the Low God VR immerses gamers in the horrifying world of the "The Flock", and pits them against an onslaught of cult members and creatures as they attempt to breach the confines of Lanford Police Department. Put on the badge, grab a weapon, and fight off The Flock and the entities they've conjured before it's too late. Play alone, or gather your friends, and prepare for a combat-based VR survival horror experience like no other.
 
+- [Steam](https://store.steampowered.com/app/2093550/Flock_of_the_Low_God/)
+
 ## Materials Lab (NDA)
 A collaboration between the UNiversity of New Orleans and TopRightCorner, Materials Lab allows the player to take on the role of a medieval blacksmith in VR to learn the old methods of smelting ore and smithing steel. I was project lead and solo developer at TopRightCorner for this project.
 
