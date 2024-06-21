@@ -13,7 +13,7 @@ Based on the new feature film, MALUM, Flock of the Low God VR immerses gamers in
 - [Steam](https://store.steampowered.com/app/2093550/Flock_of_the_Low_God/)
 
 ## Materials Lab (NDA)
-A collaboration between the UNiversity of New Orleans and TopRightCorner, Materials Lab allows the player to take on the role of a medieval blacksmith in VR to learn the old methods of smelting ore and smithing steel. I was project lead and solo developer at TopRightCorner for this project.
+A collaboration between the University of New Orleans and TopRightCorner, Materials Lab allows the player to take on the role of a medieval blacksmith in VR to learn the old methods of smelting ore and smithing steel. I was project lead and solo developer at TopRightCorner for this project.
 
 ## Louisiana Wind Hub (NDA)
 Taking place in the Gulf of Mexico, Louisiana Wind Hub is an educational VR demonstration on the state of Louisiana's prime positioning for wind power both now and in the future. Louisiana Wind Hub has been shown everywhere from schools to congress. I was project lead and solo developer at TopRightCorner for this project.
