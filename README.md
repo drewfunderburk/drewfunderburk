@@ -19,5 +19,3 @@ I am looking for work! If you have any availabilities and think I would fit your
 <a href="mailto:drewfunderburkbusiness@gmail.com">drewfunderburkbusiness@gmail.com</a> 
 or connect with me on 
 <a href="https://www.linkedin.com/in/drew-funderburk/"><img src="/media/Icons/linkedin.png" alt="LinkedIn Icon" width="15"/>LinkedIn</a>
-
-[Resume](DrewFunderburk_Resume.pdf)
