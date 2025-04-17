@@ -7,9 +7,13 @@
 
 *AI | VR | UNREAL ENGINE 5 | UNITY | C++ | C# | SYSTEMS DESIGN*
 
-Game Programmer and project lead with experience in VR development as well as desktop and mobile. I am experienced in both Unreal Engine and Unity, 
-C++, C#, both Git and Perforce source control, AI, UI, and game systems. I am looking forward to expanding my knowledge and experience as an asset 
-to your team.
+Experienced **VR/AR Developer** and **Project Lead** with proven success in commercial and educational applications.
+Technical expertise in **AI systems**, **game optimization**, and **gameplay systems** combined with **leadership experience**
+as both an instructor and developer. Seeking to contribute technical and creative problem-solving skills to
+innovative game development teams.
+
+I am experienced in both Unreal Engine 5 and Unity, C++, C#, both Git and Perforce source control, AI, UI, and game systems. 
+I am looking forward to expanding my knowledge and experience as an asset to your team.
 
 I am looking for work! If you have any availabilities and think I would fit your team well, please email me at 
 <a href="mailto:drewfunderburkbusiness@gmail.com">drewfunderburkbusiness@gmail.com</a> 
