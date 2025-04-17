@@ -15,6 +15,8 @@ innovative game development teams.
 I am experienced in both Unreal Engine 5 and Unity, C++, C#, both Git and Perforce source control, AI, UI, and game systems. 
 I am looking forward to expanding my knowledge and experience as an asset to your team.
 
+**I do most of my work in private repositories and in Perforce, excuse the mostly bare repo list. For snippets of my code, please head [here](https://github.com/drewfunderburk/PortfolioCodeExamples)**
+
 I am looking for work! If you have any availabilities and think I would fit your team well, please email me at 
 <a href="mailto:drewfunderburkbusiness@gmail.com">drewfunderburkbusiness@gmail.com</a> 
 or connect with me on 
